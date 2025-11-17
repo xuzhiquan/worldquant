@@ -10,7 +10,7 @@ import random
 import numpy as np
 
 # =========================
-# 日志配置
+# 日志配置 添加說明
 # =========================
 logging.basicConfig(filename='simulation.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
